@@ -1,0 +1,16 @@
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.AssemblyInfoInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.AssemblyInfo.cs
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.csproj.CoreCompileInputs.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\MIPHazi.exe
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\MIPHazi.deps.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\MIPHazi.runtimeconfig.json
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\MIPHazi.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\MIPHazi.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\refint\MIPHazi.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.pdb
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.genruntimeconfig.cache
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\ref\MIPHazi.dll
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\obj\Debug\net10.0\MIPHazi.csproj.Up2Date
+C:\Users\mcsab\Documents\GitHub\MI.Labor1\MIPHazi\MIPHazi\bin\Debug\net10.0\szemelyek.json

@@ -1,0 +1,219 @@
+{
+    "employees": [
+        {
+            "name": "Kovacs Janos",
+            "salary": 5000
+        },
+        {
+            "name": "Nagy Anna",
+            "salary": 5100
+        },
+        {
+            "name": "Toth Geza",
+            "salary": 4800
+        },
+        {
+            "name": "Horvath Peter",
+            "salary": 5200
+        },
+        {
+            "name": "Molnar Eszter",
+            "salary": 4950
+        },
+        {
+            "name": "Varga Adam",
+            "salary": 5300
+        },
+        {
+            "name": "Kiss Daniel",
+            "salary": 5100
+        },
+        {
+            "name": "Farkas Balazs",
+            "salary": 4700
+        },
+        {
+            "name": "Balogh Zoltan",
+            "salary": 5500
+        },
+        {
+            "name": "Lakatos David",
+            "salary": 4600
+        },
+        {
+            "name": "Nagy Peter",
+            "salary": 5000
+        },
+        {
+            "name": "Szabo Mark",
+            "salary": 5150
+        },
+        {
+            "name": "Kerekes Andras",
+            "salary": 4900
+        },
+        {
+            "name": "Biro Gabor",
+            "salary": 5250
+        },
+        {
+            "name": "Papp Laszlo",
+            "salary": 4800
+        },
+        {
+            "name": "Sipos Roland",
+            "salary": 5100
+        },
+        {
+            "name": "Miklos Robert",
+            "salary": 5350
+        },
+        {
+            "name": "Simon Attila",
+            "salary": 5000
+        },
+        {
+            "name": "Vass Norbert",
+            "salary": 4950
+        },
+        {
+            "name": "Takacs Bence",
+            "salary": 5300
+        },
+        {
+            "name": "Orban Mate",
+            "salary": 4750
+        },
+        {
+            "name": "Racz Krisztian",
+            "salary": 5100
+        },
+        {
+            "name": "Fekete Tamas",
+            "salary": 5200
+        },
+        {
+            "name": "Gulyas Erik",
+            "salary": 4850
+        },
+        {
+            "name": "Majoros Levente",
+            "salary": 5500
+        },
+        {
+            "name": "Kiss Bela",
+            "salary": 5000
+        },
+        {
+            "name": "Nemes Oliver",
+            "salary": 5100
+        },
+        {
+            "name": "Jakab Daniel",
+            "salary": 4950
+        },
+        {
+            "name": "Hegedus Aron",
+            "salary": 5400
+        },
+        {
+            "name": "Kocsis Marcell",
+            "salary": 5050
+        },
+        {
+            "name": "Toth Bence",
+            "salary": 4900
+        },
+        {
+            "name": "Barna Dominik",
+            "salary": 5200
+        },
+        {
+            "name": "Feher Martin",
+            "salary": 5000
+        },
+        {
+            "name": "Vincze Adam",
+            "salary": 5300
+        },
+        {
+            "name": "Deak Peter",
+            "salary": 4800
+        },
+        {
+            "name": "Kelemen Zsolt",
+            "salary": 5100
+        },
+        {
+            "name": "Lukacs Istvan",
+            "salary": 4950
+        },
+        {
+            "name": "Bodnar Mihaly",
+            "salary": 5250
+        },
+        {
+            "name": "Kadar Sandor",
+            "salary": 5000
+        },
+        {
+            "name": "A",
+            "salary": 5000
+        },
+        {
+            "name": "Negativ Fizetes",
+            "salary": -2000
+        }
+    ],
+    "managers": [
+        {
+            "name": "Kiss Pista",
+            "salary": 7000,
+            "password": "pista123"
+        },
+        {
+            "name": "Szabo Eva",
+            "salary": 7500,
+            "password": "eva123"
+        },
+        {
+            "name": "Nagy Bela",
+            "salary": 8000,
+            "password": "bela123"
+        },
+        {
+            "name": "Fodor Zoltan",
+            "salary": 7200,
+            "password": "zoltan123"
+        },
+        {
+            "name": "Varga Istvan",
+            "salary": 7800,
+            "password": "istvan123"
+        },
+        {
+            "name": null,
+            "salary": 7000,
+            "password": "hibas123"
+        },
+        {
+            "name": "Hibas Fizetes",
+            "salary": 0,
+            "password": "hibas456"
+        },
+        {
+            "name": "Hibas Jelszo",
+            "salary": 7300
+        },
+        {
+            "name": "Molnar Sandor",
+            "salary": 7600,
+            "password": "sandor123"
+        },
+        {
+            "name": "Balogh Gabor",
+            "salary": 7400,
+            "password": "gabor123"
+        }
+    ]
+}
